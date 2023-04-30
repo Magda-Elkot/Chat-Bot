@@ -1,9 +1,6 @@
 # Chat Bot for Psychotherapy using Machine Learning
-    Welcome to my project! As part of 
-    my work at SYNC INTERN'S, I created 
-    a Chat Bot for Psychotherapy using 
-    Machine Learning. The aim of this project 
-    is to provide a cost-effective 
+    Welcome to my project! As part of my work at SYNC INTERN'S, I created a Chat Bot for Psychotherapy using 
+    Machine Learning. The aim of this project is to provide a cost-effective 
     and accessible way for people to seek mental health support.
 
 # Project Overview
@@ -37,4 +34,5 @@
     5.Test the chatbot by providing inputs and getting responses.
 
 # Conclusion
-  I hope you find this chatbot useful for providing mental health support. If you have any feedback or suggestions for improvement, please let me know!
+  I hope you find this chatbot useful for providing mental health support. 
+  If you have any feedback or suggestions for improvement, please let me know!
