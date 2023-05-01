@@ -31,7 +31,7 @@
     2. Clean the dataset by removing unnecessary characters and stopwords.
     3. Convert the text into a numerical representation using TfidfVectorizer.
     4. Train a machine learning model using cosine similarity.
-    5.Test the chatbot by providing inputs and getting responses.
+    5. Test the chatbot by providing inputs and getting responses.
 
 # Conclusion
   I hope you find this chatbot useful for providing mental health support. 
